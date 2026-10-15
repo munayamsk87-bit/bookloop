@@ -1,0 +1,9 @@
+{
+  "name": "BookLoop — Give Books a Second Life",
+  "short_name": "BookLoop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "icons": []
+}
